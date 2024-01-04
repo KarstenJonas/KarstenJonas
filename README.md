@@ -17,6 +17,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
 </div>
 
 ###
@@ -37,6 +39,9 @@
 ###
 
 📚 Always looking for opportunities to enhance my skills. Learning is a continuous process, and I'm embracing the challenges that come with it.
+
+###
+
 
 
 
